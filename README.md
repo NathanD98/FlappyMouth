@@ -7,31 +7,21 @@ Use and change as you like.
 
 This code makes it possible to play flappy bird using your mouth utilizing the web cam.
 
-From this start screen, open your mouth 3 times to start playing.
-
-<img src="assets/readmepics/gamestart.png" width="50%"> 
-
-
-Here a losing screen. To get back to starting screen, open your mouth 2 times.
-
-<img src="assets/readmepics/gamelost.png" width="50%"> 
-
-
 # Installation instructions
 
-(only tested on osx and python3) 
-
-    brew install cmake
+(For windows user using visual studio) 
+    Download the CMake installer and add the PATH is in enviromental variables  (https://cmake.org/download/)
+    install the  Visual Studio Build Tools Command Prompt (https://visualstudio.microsoft.com/downloads/#remote-tools-for-visual-studio-2022)
     
 
 install python dependencies 
 
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     
     
 run game with **flappy.py**
 
-    python3 flappy.py
+    python flappy.py
 
 
 
