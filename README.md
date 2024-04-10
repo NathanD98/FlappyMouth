@@ -15,7 +15,8 @@ This code makes it possible to play flappy bird using your mouth utilizing the w
 ```
     
 Run on the Developer Command Prompt for Visual Studio
-install python dependencies 
+
+
     ```
     
     pip install -r requirements.txt
