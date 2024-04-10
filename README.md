@@ -4,7 +4,7 @@
 
 Written by [**Dmitriy Semashkov**](https://github.com/imsedim) and [**Bjørnar Moe Remmen**](https://github.com/bjornamr)
 
-This code makes it possible to play flappy bird using your mouth utilizing the web cam.
+This code makes it possible to play flappy bird using your mouth utilizing the web cam (Rewritten version of https://github.com/sourabhv/FlapPyBird)
 
 # Installation instructions
 
@@ -30,7 +30,7 @@ run game with **flappy.py**
 
 
 
-Rewritten version of https://github.com/sourabhv/FlapPyBird with added functionality to detect face.
+
 
 
 
