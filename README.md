@@ -14,9 +14,10 @@ This code makes it possible to play flappy bird using your mouth utilizing the w
     install the  Visual Studio Build Tools Command Prompt (https://visualstudio.microsoft.com/downloads/#remote-tools-for-visual-studio-2022)
 ```
     
-
+Run on the Developer Command Prompt for Visual Studio
 install python dependencies 
-    ```Run on the Developer Command Prompt for Visual Studio
+    ```
+    
     pip install -r requirements.txt
     ```
     
